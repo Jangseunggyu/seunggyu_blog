@@ -1,0 +1,9 @@
+---
+title: "intro"
+author: "Seunggyu Jang"
+date: "2025-07-22"
+categories: [pands]
+image: "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTAxMjJfMTQw%2FMDAxNTQ4MTQyMTYzODMz.e4IxCuJlsUQ434_34WxyHk9-wKxmbky2Hc1yVQqvKzIg.-UV49ZUFxD5qEkHpi6vgQXslzV_jGTsenw1-YePmjRkg.JPEG.himman2%2FImage_15.jpg&type=sc960_832"
+---
+
+저의 첫 블로그입니다~~
