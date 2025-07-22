@@ -1,0 +1,9 @@
+---
+title: "Post With Code"
+author: "Harlow Malloc"
+date: "2025-07-22"
+categories: [news, code, analysis]
+image: "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fimg-cdn.theqoo.net%2FZCqtks.jpg&type=sc960_832"
+---
+
+This is a post with executable code.

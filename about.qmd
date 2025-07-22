@@ -1,0 +1,19 @@
+---
+title: "Seung gyu"
+image: 다운로드1.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/Jangseunggyu
+    - icon: instagram
+      text: instagram
+      href: https://instagram.com
+
+---
+
+승규의 블로그입니다.

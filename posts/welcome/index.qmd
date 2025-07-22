@@ -1,0 +1,12 @@
+---
+title: "Park Boyoung"
+author: "Seunggyu-Jang"
+date: "2025-07-22"
+categories: [jpg]
+---
+
+This is the first post in a Quarto blog. Welcome!
+
+![](%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.jpg)
+
+안녕하세요~
