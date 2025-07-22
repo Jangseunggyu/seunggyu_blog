@@ -13,5 +13,11 @@
   },
   "posts/intro/index.qmd": {
     "index.html": "f6b14956"
+  },
+  "posts/self-introduction/self-introduction.qmd": {
+    "self-introduction.html": "765ea28c"
+  },
+  "posts/intro/intro.qmd": {
+    "intro.html": "267cfd5d"
   }
 }
